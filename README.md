@@ -34,6 +34,9 @@ It should use backtracking or other suitable techniques to explore possible solu
 Create a program that extracts product information, such as names, prices, and ratings, from an online e-commerce website and stores the data in a structured format like a CSV file.
 You are free to choose the website you scrape from.
 
+<p align="center">
+  <img src="https://github.com/Silent18Killer/PRODIGY_TrackCode_TaskNumber/assets/139036518/06d0e4d4-3bb1-4501-9af0-7414e6b7e894"/>
+</p>
 
 
 ## Programming languages used:-
